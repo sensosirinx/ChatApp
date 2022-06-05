@@ -1,0 +1,9 @@
+{
+  "tokenUrl": "https://api.chatapp.online/v1/tokens",
+  "tokenCheckUrl": "https://api.chatapp.online/v1/tokens/check",
+  "apiKey": "ChatsAppApiProdKey",
+  "email": "",
+  "password": "",
+  "appId": "",
+  "licenseId": ""
+}
